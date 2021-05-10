@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wincy1711
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning electrical engineering
+- 🌱 I’m currently studying electrical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on wincy1711@outlook.com
 
