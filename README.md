@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wincy1711
-- 👀 I’m interested in machine learning, NLP, DIP, Complex System.
+- 👋 Hi, I’m win
+- 👀 I’m interested in machine learning, NLP, DIP, IC Design.
 - 🌱 I’m currently studying third years electrical engineering at KU, focusing on communication and electronics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on wincy1711@outlook.com
