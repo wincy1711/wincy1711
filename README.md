@@ -1,5 +1,5 @@
 - 👋 Hi, I’m win
-- 👀 I’m interested in machine learning, Image Processing, Integrated Circuit Design, and Digital Communication.
+- 👀 I’m interested in Machine learning, Image and Signal Processing, Integrated Circuit Design, and Digital Communication.
 - 🌱 I’m currently studying Fourth-year electrical engineering at KU, focusing on communication and electronics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on wincy1711@outlook.com
